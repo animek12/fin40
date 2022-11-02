@@ -3713,8 +3713,8 @@ let alfamart = `628111500959@s.whatsapp.net`
   mentions: ments,
   headerType: 4,
   contextInfo:{externalAdReply:{
-  title: 'Naze Dev',
-  body: 'Subscribe My YouTube', 
+  title: 'Fin Md',
+  body: 'Subscribe My Account', 
   showAdAttribution: true,
   thumbnail: thumb,
   mediaType: 2,
